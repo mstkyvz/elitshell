@@ -4,7 +4,7 @@ echo '<!DOCTYPE HTML>
 <html>
 <head>
 <meta charset="UTF-8">
-<title>[ ';echo $_SERVER['SERVER_NAME']; echo '/Neoax ]</title>
+<title>[ ';echo $_SERVER['SERVER_NAME']; echo '/Walker ]</title>
 <style>
 body{
          background-color: black;
